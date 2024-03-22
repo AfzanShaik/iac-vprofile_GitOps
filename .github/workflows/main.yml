@@ -74,9 +74,9 @@ jobs:
 
          uses: hashicorp/setup-terraform@v2 
 
-         #with: 
+         with: 
 
-         #  terraform_version: 1.6.3 
+           terraform_version: 1.6.3 
 
  
 
